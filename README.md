@@ -1,19 +1,19 @@
 # commandLineHacks
 
- laravel new app
-  php artisan key:generate
-  php artisan migrate
-  composer require laravel/breeze --dev
-  php artisan breeze:install
-  npm install
-  npm install && npm run dev
-  php artisan serve
+ laravel new app  <br/>
+  php artisan key:generate <br/>
+  php artisan migrate <br/>
+  composer require laravel/breeze --dev <br/>
+  php artisan breeze:install <br/>
+  npm install <br/>
+  npm install && npm run dev <br/>
+  php artisan serve <br/>
   composer require santigarcor/laratrust
-  php artisan vendor:publish --tag="laratrust"
-  php artisan laratrust:setup
-  php artisan laratrust:seeder
-  php artisan vendor:publish --tag="laratrust-seeder"
-  composer dump-autoload
-  php artisan migrate
-  php artisan db:seed
-  php artisan serve
+  php artisan vendor:publish --tag="laratrust" <br/>
+  php artisan laratrust:setup <br/>
+  php artisan laratrust:seeder <br/>
+  php artisan vendor:publish --tag="laratrust-seeder" <br/>
+  composer dump-autoload <br/>
+  php artisan migrate <br/>
+  php artisan db:seed <br/>
+  php artisan serve <br/>
